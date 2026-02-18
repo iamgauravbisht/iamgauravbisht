@@ -8,7 +8,7 @@
 
 ## 🧭 About Me
 
-I'm a passionate developer from New Delhi, currently working as an **Assistant System Engineer at TCS**.  
+I'm a passionate developer from New Delhi, currently working as an **System Engineer at TCS**.  
 Over the last 60 days, I’ve been on a mission — to transform myself into a **Software Development Engineer (SDE)** ready for Amazon and top-tier product companies.
 
 From brushing up DSA to polishing real-world projects and mastering system design fundamentals, this profile is a reflection of that **grind, growth, and grit**.
@@ -41,7 +41,7 @@ From brushing up DSA to polishing real-world projects and mastering system desig
 **Frontend**: React.js, Next.js, Tailwind CSS  
 **Backend**: Node.js, Express, MongoDB, REST APIs, Socket.io  
 **Tools**: Git, Docker, Postman, GitHub Actions  
-**Cloud**: AWS (EC2, S3, Lambda), Vercel, Render  
+**Cloud**: AWS (EC2, S3, Lambda), Vercel, Render , Azure
 **DSA**: LeetCode, NeetCode, GFG  
 **Other**: JWT, WebSockets, CI/CD, Notion
 
