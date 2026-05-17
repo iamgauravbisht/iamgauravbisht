@@ -3,8 +3,21 @@
 ### 🚀 Software Engineer | AI & Full-Stack Developer | Building Intelligent Systems
 
 > _“Discipline, consistency, and curiosity transformed me from a learner into a builder.”_
-
+> 
 ---
+<p align="center">
+  <a href="./assets/Gaurav_Bisht_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/iamgauravbisht">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  
+  <a href="https://github.com/iamgauravbisht">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ## 🧭 About Me
 
@@ -25,8 +38,6 @@ My journey started with mastering DSA and full-stack fundamentals — and evolve
 - 📦 **Backend Architecture & Scalable APIs**
 - 🔍 **Semantic Search, RAG & NLP**
 - 🛠️ **Clean Code, System Design & CI/CD**
-
----
 
 ## 🔥 Professional Highlights
 
