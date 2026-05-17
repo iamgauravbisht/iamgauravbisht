@@ -1,64 +1,157 @@
 # 👋 Hi, I’m Gaurav Bisht
 
-### 🚀 Software Developer | Full-Stack Engineer | SDE-1 Aspirant
+### 🚀 Software Engineer | AI & Full-Stack Developer | Building Intelligent Systems
 
-> _“I turned my weaknesses into my motivation and built my way to strength — 60 days of discipline, consistency, and code.”_
+> _“Discipline, consistency, and curiosity transformed me from a learner into a builder.”_
 
 ---
 
 ## 🧭 About Me
 
-I'm a passionate developer from New Delhi, currently working as an **System Engineer at TCS**.  
-Over the last 60 days, I’ve been on a mission — to transform myself into a **Software Development Engineer (SDE)** ready for Amazon and top-tier product companies.
+I'm a Software Engineer from New Delhi currently working at **Tata Consultancy Services (TCS)** in the **Gen AI Capability Team**, where I build scalable AI-powered enterprise solutions using multi-agent systems, LLM orchestration, cloud infrastructure, and backend engineering.
 
-From brushing up DSA to polishing real-world projects and mastering system design fundamentals, this profile is a reflection of that **grind, growth, and grit**.
+I specialize in combining **Generative AI + Full-Stack Development** to build intelligent systems that automate workflows, improve productivity, and solve real-world enterprise problems.
 
----
-
-## 📌 What I Focus On
-
-- 💻 **Full-Stack Development** (React.js, Node.js, TypeScript, MongoDB)
-- 🧠 **Data Structures & Algorithms** (LeetCode 150+ problems)
-- ⚙️ **System Design Basics** (Load Balancing, Caching, DB Sharding)
-- ☁️ **Cloud & Deployment** (AWS, Render, Vercel)
-- 📦 **Clean Code, Git, Testing, and CI/CD**
+My journey started with mastering DSA and full-stack fundamentals — and evolved into designing production-grade AI systems using **LangGraph, AutoGen, CrewAI, FastAPI, Redis, PostgreSQL, Azure, and AWS**.
 
 ---
 
-## 🔥 Highlights of My Journey
+# 💡 What I’m Focused On
 
-✅ Completed **Blind 75** and solved 150+ LeetCode questions  
-✅ Rebuilt and deployed 3 full-stack apps with better UI/UX & auth  
-✅ Documented system design of my own projects  
-✅ Mock interviewed weekly & built STAR stories using Amazon LPs  
-✅ Grew into a developer who writes code that scales and explains what matters
+- 🤖 **Agentic AI & LLM Systems**
+- ⚡ **Full-Stack Development**
+- 🧠 **AI Automation & Workflow Orchestration**
+- ☁️ **Cloud-Native Engineering**
+- 📦 **Backend Architecture & Scalable APIs**
+- 🔍 **Semantic Search, RAG & NLP**
+- 🛠️ **Clean Code, System Design & CI/CD**
+
+---
+
+## 🔥 Professional Highlights
+
+✅ Built a **7-Agent Data Quality Pipeline** using AutoGen & CrewAI reducing manual effort by **70%+**  
+✅ Developed an **LLM-powered Test Automation Framework** reducing testing effort by **85%+**  
+✅ Productionized **MCP Servers** integrated with AWS AgentCore for reusable AI workflows  
+✅ Designed scalable backend systems using **FastAPI + Redis + PostgreSQL**  
+✅ Built AI-powered document intelligence systems using **transformer embeddings**  
+✅ Solved **150+ DSA problems** and completed core system design preparation  
+✅ Winner of multiple AI Hackathons and engineering showcases
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**: JavaScript, TypeScript, Python, SQL  
-**Frontend**: React.js, Next.js, Tailwind CSS  
-**Backend**: Node.js, Express, MongoDB, REST APIs, Socket.io  
-**Tools**: Git, Docker, Postman, GitHub Actions  
-**Cloud**: AWS (EC2, S3, Lambda), Vercel, Render , Azure
-**DSA**: LeetCode, NeetCode, GFG  
-**Other**: JWT, WebSockets, CI/CD, Notion
+### 💻 Languages
+- Python
+- JavaScript
+- TypeScript
+- Java
+- SQL
+
+### ⚙️ AI / ML
+- Generative AI
+- LLMs
+- Agentic AI
+- AutoGen
+- CrewAI
+- LangGraph
+- RAG
+- NLP
+- Transformers
+- FAISS
+- TensorFlow
+- Keras
+
+### 🌐 Full-Stack
+- React.js
+- Next.js
+- Node.js
+- Express.js
+- FastAPI
+- MongoDB
+- PostgreSQL
+- REST APIs
+- WebSockets
+- Socket.io
+
+### ☁️ Cloud & DevOps
+- Azure
+- AWS
+- GCP
+- Docker
+- GitHub Actions
+- CI/CD
+- Vercel
+- Render
+
+### 🧰 Tools & Platforms
+- Git
+- Postman
+- Redis
+- MLflow
+- Streamlit
+- Vertex AI
+- Graphviz
+- Notion
 
 ---
 
-## 💼 Featured Projects
+# 💼 Experience
+
+## 🏢 Tata Consultancy Services (TCS)
+### Packaged App Development Associate — Gen AI Capability Team  
+📍 Jan 2025 – Present
+
+- Architected enterprise-grade **multi-agent AI systems** using AutoGen, CrewAI, and LangGraph
+- Built scalable backend orchestration using FastAPI, Redis, and PostgreSQL
+- Developed reusable MCP servers for enterprise AI integrations
+- Automated testing pipelines and intelligent workflow systems
+- Collaborated across teams to deploy AI solutions on Azure and AWS
+
+---
+
+## 💼 WYC – Way Your Child
+### Full Stack Developer  
+📍 Jul 2023 – Nov 2024
+
+- Developed core modules for a School ERP platform
+- Built scalable APIs and optimized frontend responsiveness
+- Designed PostgreSQL schemas for 10+ management modules
+- Improved performance and UX through React optimization
+
+---
+
+# 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| [🔗 Network](https://github.com/iamgauravbisht/Network) | Real-time social media platform with live feed updates, built with MERN stack + Socket.io |
-| [🔗 GauravDocs](https://github.com/iamgauravbisht/gauravdocs) | Google Docs clone with collaborative rich-text editing via WebSockets |
-| [🔗 CMS System](https://github.com/iamgauravbisht/cmssystem) | Headless CMS with dynamic table generation and secure CRUD access |
-| [🔗 Sarkari Result Scraper](https://github.com/iamgauravbisht/sarkariresults) | Python scraper extracting structured data from 7K+ web pages |
+|----------|-------------|
+| [🔗 Agentic AI Crawler](https://github.com/iamgauravbisht) | Autonomous AI crawler using Gemini API, FAISS semantic search, and Graphviz knowledge mapping |
+| [🔗 Network](https://github.com/iamgauravbisht/Network) | Real-time social media platform built using MERN + Socket.io |
+| [🔗 GauravDocs](https://github.com/iamgauravbisht/gauravdocs) | Collaborative rich-text editor inspired by Google Docs |
+| [🔗 CMS System](https://github.com/iamgauravbisht/cmssystem) | Headless CMS with secure CRUD access and dynamic schema management |
+| [🔗 Sarkari Result Scraper](https://github.com/iamgauravbisht/sarkariresults) | Python scraper processing 7000+ pages into structured datasets |
 
 ---
 
-## 📊 GitHub Stats
+# 🏆 Achievements
+
+🥇 Winner — **Agentic AI Crawler** at BVCOE Annual Showcase  
+🚀 TCS AI Hackathon — **Spark Achievement Award**  
+💡 TCS AI Hackathon — **Idea Igniter Recognition**  
+🏅 TCS Learning Achievement Award for outstanding contribution and dedication
+
+---
+
+# 📚 Certifications
+
+- Microsoft Certified: Azure AI Engineer
+- Microsoft Certified: Azure Developer
+- Microsoft Certified: DevOps Engineer Expert
+
+---
+
+# 📊 GitHub Stats
 
 ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamgauravbisht&show_icons=true&theme=tokyonight)
 
@@ -66,15 +159,14 @@ From brushing up DSA to polishing real-world projects and mastering system desig
 
 ---
 
-## 🤝 Let’s Connect
+# 🤝 Let’s Connect
 
-- 🔗 [Portfolio](https://iamgauravbisht.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/gauravbisht)
-- 🧠 [LeetCode](https://leetcode.com/)
-- ✉️ Email: gauravbisht@email.com
+- 🌐 Portfolio: https://iamgauravbisht.github.io
+- 💼 LinkedIn: https://linkedin.com/in/iamgauravbisht
+- 🧠 GitHub: https://github.com/iamgauravbisht
+- ✉️ Email: gauravbisht154@gmail.com
 
 ---
 
-> _“The best investment I ever made was in myself.”_  
+> _“Keep building. Keep learning. Keep compounding.”_  
 > _— Gaurav Bisht_
-
