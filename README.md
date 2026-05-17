@@ -75,6 +75,13 @@ My journey started with mastering DSA and full-stack fundamentals — and evolve
 - WebSockets
 - Socket.io
 
+### 🍎 Apple Development
+- SwiftUI
+- WidgetKit
+- macOS App Development
+- App Groups
+- UserDefaults
+
 ### ☁️ Cloud & DevOps
 - Azure
 - AWS
@@ -126,11 +133,12 @@ My journey started with mastering DSA and full-stack fundamentals — and evolve
 
 | Project | Description |
 |----------|-------------|
-| [🔗 Agentic AI Crawler](https://github.com/iamgauravbisht) | Autonomous AI crawler using Gemini API, FAISS semantic search, and Graphviz knowledge mapping |
-| [🔗 Network](https://github.com/iamgauravbisht/Network) | Real-time social media platform built using MERN + Socket.io |
-| [🔗 GauravDocs](https://github.com/iamgauravbisht/gauravdocs) | Collaborative rich-text editor inspired by Google Docs |
-| [🔗 CMS System](https://github.com/iamgauravbisht/cmssystem) | Headless CMS with secure CRUD access and dynamic schema management |
-| [🔗 Sarkari Result Scraper](https://github.com/iamgauravbisht/sarkariresults) | Python scraper processing 7000+ pages into structured datasets |
+| [🔗 Agentic AI Crawler](https://github.com/iamgauravbisht/Agentic-AI-Crawler) | Autonomous AI crawler using Gemini API, FAISS semantic search, embeddings, and Graphviz-powered relationship mapping |
+| [🔗 Live Age Widget](https://github.com/iamgauravbisht/age-widget) | macOS SwiftUI + WidgetKit app that tracks live age metrics, birthday countdowns, zodiac signs, life progress, and estimated remaining lifetime with dynamic desktop widgets |
+| [🔗 Network](https://github.com/iamgauravbisht/Network) | Real-time social media platform built with MERN stack + Socket.io featuring live feed updates and authentication |
+| [🔗 GauravDocs](https://github.com/iamgauravbisht/gauravdocs) | Collaborative rich-text editor inspired by Google Docs with real-time syncing via WebSockets |
+| [🔗 CMS System](https://github.com/iamgauravbisht/cmssystem) | Headless CMS platform with secure CRUD operations and dynamic schema management |
+| [🔗 Sarkari Result Scraper](https://github.com/iamgauravbisht/sarkariresults) | Python scraper processing 7000+ web pages into structured datasets for automated information extraction |
 
 ---
 
