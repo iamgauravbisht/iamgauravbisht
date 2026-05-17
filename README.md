@@ -6,7 +6,7 @@
 > 
 ---
 <p align="center">
-  <a href="./assets/Gaurav_Bisht_Resume.pdf" target="_blank">
+  <a href="./assets/Gaurav_Bisht_Resume_2026.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   
