@@ -151,14 +151,6 @@ My journey started with mastering DSA and full-stack fundamentals — and evolve
 
 ---
 
-# 📊 GitHub Stats
-
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamgauravbisht&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgauravbisht&layout=compact&theme=tokyonight)
-
----
-
 # 🤝 Let’s Connect
 
 - 🌐 Portfolio: https://iamgauravbisht.github.io
