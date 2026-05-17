@@ -40,69 +40,74 @@ My journey started with mastering DSA and full-stack fundamentals — and evolve
 
 ---
 
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### 💻 Languages
-- Python
-- JavaScript
-- TypeScript
-- Java
-- SQL
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
 ### ⚙️ AI / ML
-- Generative AI
-- LLMs
-- Agentic AI
-- AutoGen
-- CrewAI
-- LangGraph
-- RAG
-- NLP
-- Transformers
-- FAISS
-- TensorFlow
-- Keras
+![LLMs](https://img.shields.io/badge/-LLMs-black?style=flat-square)
+![Agentic%20AI](https://img.shields.io/badge/-Agentic%20AI-black?style=flat-square)
+![AutoGen](https://img.shields.io/badge/-AutoGen-black?style=flat-square)
+![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-black?style=flat-square)
+![NLP](https://img.shields.io/badge/-NLP-black?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
+![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat-square)
 
 ### 🌐 Full-Stack
-- React.js
-- Next.js
-- Node.js
-- Express.js
-- FastAPI
-- MongoDB
-- PostgreSQL
-- REST APIs
-- WebSockets
-- Socket.io
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+</td>
+
+<td valign="top" width="50%">
 
 ### 🍎 Apple Development
-- SwiftUI
-- WidgetKit
-- macOS App Development
-- App Groups
-- UserDefaults
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-black?style=flat-square&logo=swift)
+![WidgetKit](https://img.shields.io/badge/-WidgetKit-black?style=flat-square&logo=apple)
+![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 
 ### ☁️ Cloud & DevOps
-- Azure
-- AWS
-- GCP
-- Docker
-- GitHub Actions
-- CI/CD
-- Vercel
-- Render
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoftazure)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=githubactions)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-black?style=flat-square)
 
 ### 🧰 Tools & Platforms
-- Git
-- Postman
-- Redis
-- MLflow
-- Streamlit
-- Vertex AI
-- Graphviz
-- Notion
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square)
+![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-black?style=flat-square&logo=googlecloud)
+![Graphviz](https://img.shields.io/badge/-Graphviz-black?style=flat-square)
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+
+</td>
+</tr>
+</table>
 
 ---
+
 
 # 💼 Experience
 
